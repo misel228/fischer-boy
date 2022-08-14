@@ -1,4 +1,4 @@
-## Fisher Boy ##
+# Fisher Boy #
 
 A while back Fischer-Price released a [Game Boy inspired baby toy](https://shopping.mattel.com/en-gb/products/laugh-and-learn-lil-gamer-hbc89-en-gb). 
 
