@@ -10,3 +10,4 @@ The PCB needs to have a few things:
 - a USB port for charging
 - a header for the SPI display 
 - a connector for a LiPo battery
+- a header for the piezo speaker
